@@ -1,6 +1,6 @@
 class RandomCoordinates {
     constructor() {
-        this.x = Math.random() * 100 + '%';
+        this.x = Math.random() * 101 + '%';
         this.y = Math.random() * 100 + '%';
     }
 }
