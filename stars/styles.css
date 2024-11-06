@@ -16,7 +16,7 @@
   }
   #night-sky .star {
     position: relative;
-    background: linear-gradient(-45deg, lightseagreen, rgba(0, 0, 255, 0));
+    background: linear-gradient(-45deg, rgb(29, 177, 169), rgba(0, 0, 255, 0));
     filter: drop-shadow(0 0 6px lightseagreen);
     opacity: 1;
     width: calc(var(--size) * 2px);
